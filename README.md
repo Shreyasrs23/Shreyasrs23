@@ -79,25 +79,8 @@ Currently, I'm expanding my knowledge in Deep Learning and Cloud Computing, and 
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 
 ### 📫 How to Reach Me
 

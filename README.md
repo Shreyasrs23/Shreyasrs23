@@ -41,6 +41,8 @@ Currently, I'm expanding my knowledge in Deep Learning and Cloud Computing, and 
 
 <img alt="Top Languages" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasrs23"/>
 
+<br>
+
 ### 📫 How to Reach Me
 
 - **Email**: [iamshrey26@gmail.com](mailto:iamshrey26@gmail.com)

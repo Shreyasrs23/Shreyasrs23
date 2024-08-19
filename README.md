@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi there, I'm Shreyas R S! 👋
 
-<!--
-**Shreyasrs23/Shreyasrs23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
 
-Here are some ideas to get you started:
+I'm a recent graduate with a B.E. in Artificial Intelligence and Machine Learning from Bangalore Institute of Technology, where I finished with a CGPA of 9.41. With a solid foundation in AI, ML, and Cloud Computing, I've been passionate about applying my knowledge to solve real-world problems through innovative projects and research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based in Bangalore, Karnataka, India.
+- 🎓 Pursuing a Master's in Data Science at the University of Texas at Arlington starting Fall 2024.
+- 💼 Experienced in cloud computing, machine learning, and data science.
+- 🎖️ Secured 5th VTU Topper Rank for AIML department and 2nd Topper Rank at BIT.
+- 🎾 Represented my college in Lawn Tennis tournaments at state and district levels.
+- 🛠️ Actively contributing to open-source projects and coding challenges.
+
+### 🚀 What I'm Working On
+
+- **Federated Learning in Ed-Tech**: Built a privacy-protected, adaptive platform reducing course dropout rates by 60% using FedML and Homomorphic Encryption.
+- **Serverless Cloud Computing**: Researching serverless functions deployment on AWS as part of my internship at the Indian Institute of Science.
+- **Tuberculosis Detection**: Developed a machine learning model for TB detection with 83% accuracy using digital image processing techniques.
+
+### 🛠 Technical Skills
+
+- **Languages**: Python, C, C++, Java, JavaScript (basics), SQL, XML
+- **Data Science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+- **Machine Learning**: TensorFlow, Standard ML Algorithms, Exploratory Data Analysis
+- **Cloud**: AWS Cloud Services
+- **Frontend**: HTML, CSS, React.js (basics)
+- **Database**: MySQL
+- **Tools**: VS Code, Git, Jupyter, MATLAB, Android Studio
+
+### 🏅 Achievements
+
+- **Publications**: Published research on Interpretable Reinforcement Learning at IEEE InCCCS 2024.
+- **Hackathons**: Participated and won various national-level hackathons, including Hackzon 2023.
+- **Social Work**: Actively engaged in social activities like guiding students and conducting awareness programs in Bangalore.
+
+### 🌱 Learning & Growth
+
+Currently, I'm expanding my knowledge in Deep Learning and Cloud Computing, and I'm eager to explore opportunities in data science, machine learning, and AI research. I'm also honing my skills in advanced JavaScript and cloud infrastructure.
+
+### 📫 How to Reach Me
+
+- **Email**: [iamshrey26@gmail.com](mailto:iamshrey26@gmail.com)
+- **LeetCode**: [shrey23](https://leetcode.com/shrey23/)
+- **LinkedIn**: [Shreyas R S](#) (add your LinkedIn profile link here)

@@ -37,6 +37,8 @@ I'm currently pursuing a Master's in Data Science at the University of Texas at 
 
 Currently, I'm expanding my knowledge in Deep Learning and Cloud Computing, and I'm eager to explore opportunities in data science, machine learning, and AI research. I'm also honing my skills in advanced JavaScript and cloud infrastructure.
 
+![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyasrs23&show_icons=true&theme=transparent)
+
 ### 📫 How to Reach Me
 
 - **Email**: [iamshrey26@gmail.com](mailto:iamshrey26@gmail.com)

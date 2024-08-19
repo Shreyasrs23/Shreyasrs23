@@ -37,9 +37,9 @@ I'm currently pursuing a Master's in Data Science at the University of Texas at 
 
 Currently, I'm expanding my knowledge in Deep Learning and Cloud Computing, and I'm eager to explore opportunities in data science, machine learning, and AI research. I'm also honing my skills in advanced JavaScript and cloud infrastructure.
 
-<img alt="My Stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Shreyasrs23&show_icons=true&theme=transparent"/>
+<img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Shreyasrs23&show_icons=true&theme=transparent"/>
 
-<img alt="Top Languages" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasrs23"/>
+<img alt="Top Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasrs23"/>
 
 ### 📫 How to Reach Me
 

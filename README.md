@@ -48,7 +48,7 @@ Currently, I'm expanding my knowledge in Deep Learning and Cloud Computing, and 
 
 
 
-<img align="right" width="32%" src="https://visitcount.itsvg.in/api?id=Shreyasrs23&icon=0&color=0)](https://visitcount.itsvg.in"/>
+<img align="left" width="32%" src="https://visitcount.itsvg.in/api?id=Shreyasrs23&icon=0&color=0)](https://visitcount.itsvg.in"/>
 
 <br>
 

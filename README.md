@@ -52,7 +52,7 @@ Currently, I'm expanding my knowledge in Deep Learning and Cloud Computing, and 
 
 <br>
 
-<img alt="" width="100%">
+<img alt="                                                                    " width="100%">
 
 
 ### 📫 How to Reach Me

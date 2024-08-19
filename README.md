@@ -43,7 +43,7 @@ Currently, I'm expanding my knowledge in Deep Learning and Cloud Computing, and 
 <br>
 
 <img alt="My Stats" align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=Shreyasrs23&show_icons=true&theme=transparent"/>
-<img alt="Top Languages" align="right" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasrs23&layout=pie"/>
+<img alt="Top Languages" align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasrs23&layout=pie"/>
 <img alt="My Streak" align="left" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyasrs23&theme=dark&hide_border=false"/>
 
 

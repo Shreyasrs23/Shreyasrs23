@@ -39,7 +39,7 @@ Currently, I'm expanding my knowledge in Deep Learning and Cloud Computing, and 
 
 <img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Shreyasrs23&show_icons=true&theme=transparent"/>
 
-<img alt="Top Languages" align="left" width="47%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasrs23"/>
+<img alt="Top Languages" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasrs23"/>
 
 ### 📫 How to Reach Me
 

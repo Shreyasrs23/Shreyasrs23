@@ -39,6 +39,8 @@ Currently, I'm expanding my knowledge in Deep Learning and Cloud Computing, and 
 
 ![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyasrs23&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasrs23)](https://github.com/Shreyasrs23/github-readme-stats)
+
 ### 📫 How to Reach Me
 
 - **Email**: [iamshrey26@gmail.com](mailto:iamshrey26@gmail.com)

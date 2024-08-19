@@ -2,7 +2,7 @@
 
 ### 🌟 About Me
 
-I'm a recent graduate with a B.E. in Artificial Intelligence and Machine Learning from Bangalore Institute of Technology, where I finished with a CGPA of 9.41. With a solid foundation in AI, ML, and Cloud Computing, I've been passionate about applying my knowledge to solve real-world problems through innovative projects and research.
+I'm currently pursuing a Master's in Data Science at the University of Texas at Arlington. With over eight years of experience in coding, AI & ML, development, cloud, and research, I bring a wealth of knowledge and passion to every project I work on. I have completed internships at the prestigious IISC, Bangalore, and contributed to numerous AI & ML projects. I'm also a recent graduate with a B.E. in Artificial Intelligence and Machine Learning from Bangalore Institute of Technology, where I finished with a CGPA of 9.41. With a solid foundation in AI, ML, and Cloud Computing, I've been passionate about applying my knowledge to solve real-world problems through innovative projects and research.
 
 - 🌍 Based in Bangalore, Karnataka, India.
 - 🎓 Pursuing a Master's in Data Science at the University of Texas at Arlington starting Fall 2024.
@@ -11,7 +11,7 @@ I'm a recent graduate with a B.E. in Artificial Intelligence and Machine Learnin
 - 🎾 Represented my college in Lawn Tennis tournaments at state and district levels.
 - 🛠️ Actively contributing to open-source projects and coding challenges.
 
-### 🚀 What I'm Working On
+### 🚀 What I've worked on
 
 - **Federated Learning in Ed-Tech**: Built a privacy-protected, adaptive platform reducing course dropout rates by 60% using FedML and Homomorphic Encryption.
 - **Serverless Cloud Computing**: Researching serverless functions deployment on AWS as part of my internship at the Indian Institute of Science.
@@ -41,4 +41,4 @@ Currently, I'm expanding my knowledge in Deep Learning and Cloud Computing, and 
 
 - **Email**: [iamshrey26@gmail.com](mailto:iamshrey26@gmail.com)
 - **LeetCode**: [shrey23](https://leetcode.com/shrey23/)
-- **LinkedIn**: [Shreyas R S](#) (add your LinkedIn profile link here)
+- **LinkedIn**: [Shreyas R S](https://www.linkedin.com/in/shreyas-r-s/)
